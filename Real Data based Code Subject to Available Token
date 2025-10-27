@@ -35,7 +35,7 @@ SOCRATA_DOMAIN = "data.cityofchicago.org"
 DATASET_ID = "jqe8-8r6s"  # West Nile Virus (WNV) Mosquito Test Results)
 
 # <<< Your Socrata API Key ID (acts as SODA App Token) >>>
-APP_TOKEN = "f428ot982omiwbhrnnwlnsezw"
+APP_TOKEN = "provide token here"
 # NOTE: API Key Secret is not required for public reads via SODA and is not used here.
 
 # To limit download volume initially, you can narrow the window; then widen later:
